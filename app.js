@@ -1,1 +1,1 @@
-console.log("Hello, SE!");
+console.log("Ahoj, SE!");
