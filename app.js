@@ -1,5 +1,5 @@
 console.log("Ahoj, SE!");
 
 function app (){
-    return true;
+    console.log("Ahoj, SE!");
 }
