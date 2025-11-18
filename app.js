@@ -1,5 +1,11 @@
 console.log("Ahoj, SE!");
 
 function app (){
-    return false;
+    if(loggedIn()) {
+        console.log("Logged in!")
+    }
+}
+
+function loggedIn () {
+    return true;
 }
