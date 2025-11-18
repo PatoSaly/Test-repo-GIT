@@ -8,3 +8,9 @@ function register (){
     console.log("Register user");
 }
 
+function login (){
+    console.log("Login function");
+}
+
+
+
